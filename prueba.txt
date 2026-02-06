@@ -1,1 +1,1 @@
-este archivo ha sido modificado en la rama
+este archivo ha sido modificado en la rama desde GitHub
